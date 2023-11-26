@@ -1,0 +1,5 @@
+#define GREEN   "\x1B[32m"
+#define LBLUE   "\x1B[38;2;53;149;240m"
+#define CYAN    "\x1B[36m"
+#define RED     "\x1b[31m"
+#define RESET   "\033[0m"
